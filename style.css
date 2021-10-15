@@ -27,10 +27,10 @@
     font-size: 10px;
 }
 .btn-add {
-    position: relative;
+    /* position: relative;
     top: 1110px;
     border: 0;
-    padding: 5px;
+    padding: 5px; */
     transition: all 0.2s ease-out 0.4s
 }
 .btn-add:hover {
