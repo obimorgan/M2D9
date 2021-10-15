@@ -11,5 +11,30 @@
 }
 
 .badge {
-    top: 30px;
+    top: 15px;
+    
+}
+.card-text {
+    top: 5px;
+}
+.card-body {
+    top: 1px;
+}
+.btn {
+    border-radius: 10%;
+    border: 0;
+    padding: 4px;
+    font-size: 10px;
+}
+.btn-add {
+    position: relative;
+    top: 1110px;
+    border: 0;
+    padding: 5px;
+    transition: all 0.2s ease-out 0.4s
+}
+.btn-add:hover {
+    box-shadow:5px 15px 10px rgb(73, 143, 3);
+    font-size: larger;
+    transform: translateY(-20px);
 }
